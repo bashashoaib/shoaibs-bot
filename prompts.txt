@@ -1,0 +1,12 @@
+Write a simple good looking HTML CSS and JS page where we will have a chatbot backed by openai API
+
+and it should use small model of API to avoid huge billing.  make UI looks awesome. and give same questions.
+Lets hard the API key..not show in UI
+Also system prompt should be having info below
+
+make this optimised for Mobile phone.feel freee to make strctural changes
+
+Dont put the chat box commpelte bootom, rather put it slightly above to avoid bootom ad banners
+Have a new chat button and also load context to cary forward in same chat. start and clear context in new chat. also make this UI in light colours
+
+
